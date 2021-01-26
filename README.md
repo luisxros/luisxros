@@ -1,4 +1,5 @@
-## Hello there!👋🏽 I'm Luis
+# Hello there!👋🏽 I'm Luis
+##
 
 My name is Luis Rosario I'm a FullStack developer from New York. 
  I love to code and eat lots of food.
@@ -7,6 +8,8 @@ My name is Luis Rosario I'm a FullStack developer from New York.
 
 [LinkedIn](https://www.linkedin.com/in/luisxrosario/)
 
-Email: luisalmonter@gmail.com
+luisalmonter@gmail.com
 
+#### Portfolio (coming soon!)
+[Luis Rosario](luisxrosario.com) 
 
