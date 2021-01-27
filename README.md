@@ -20,3 +20,7 @@ My name is Luis Rosario I'm a FullStack developer from New York.
 ## Skills & Technologies I use:
 
 
+
+
+![Logo](img/logo.png)
+
