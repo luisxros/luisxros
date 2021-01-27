@@ -18,5 +18,5 @@ My name is Luis Rosario I'm a FullStack developer💻 from New York🗽. I am pa
 
 ## Skills & Technologies I use:
 
-HTML5|JavaScript|CSS3|React.Js|Node.js|MongoDB|Ruby|Ruby on Rails|jQuery|React Native|Express.js|
+HTML5|JavaScript|CSS3|React.Js|Node.js|MongoDB|Ruby|Ruby on Rails|jQuery|React Native|Express|
 
