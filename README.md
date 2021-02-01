@@ -14,7 +14,7 @@ My name is Luis Rosario I'm a Full-Stack developer💻 from New York🗽. I am p
 - luisalmonter@gmail.com
 
 ## Portfolio
-- [Luis Rosario](luisxrosario.com) 
+- [Luis Rosario](https://luisxrosario.com/) 
 
 ## Skills & Technologies I use:
 
